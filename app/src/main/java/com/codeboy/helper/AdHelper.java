@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2014. CodeBoyTeam
+ */
+
 package com.codeboy.helper;
 
 import android.content.Context;

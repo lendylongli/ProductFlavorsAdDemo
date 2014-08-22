@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2014. CodeBoyTeam
+ */
+
 apply plugin: 'com.android.application'
 
 android {

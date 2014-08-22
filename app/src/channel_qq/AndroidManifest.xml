@@ -1,3 +1,7 @@
+<!--
+  ~ Copyright (c) 2014. CodeBoyTeam
+  -->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.codeboy.productflavors.addemo">
 
